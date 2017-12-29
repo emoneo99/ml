@@ -4,7 +4,7 @@
 # In[30]:
 
 
-path = "C:/Users/papasani.mohan/Desktop/Remedial/Remedial/Breast Cancer Wisconsin (Diagnostic) Data Set"
+path = "C:/User/vishwa/Desktop/Remedial/Remedial/Breast Cancer Wisconsin (Diagnostic) Data Set"
 
 
 # In[33]:
